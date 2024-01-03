@@ -1,5 +1,3 @@
-Hilmi Berkay Özdemir.
-
 Hi, I have been involved in many projects under the name of MERN stack.
 - I’m working on React, React Native and Vue.
 - I’m interest Shopify development and AWS.
